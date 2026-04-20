@@ -46,7 +46,12 @@ A console based inventory system built with C# and SQL Server that manages produ
 
 **Screenshots**
 
-(Add images here)
+![Menu](screenshots/menu.png)
+![Add](screenshots/AddProduct.png)
+![View](screenshots/ViewProduct.png)
+![Update](screenshots/UpdateProduct.png)
+![Delete](screenshots/DeleteProduct.png)
+![RecordSale](screenshots/RecordSale.png)
 
 
 
